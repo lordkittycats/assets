@@ -1,1 +1,1 @@
-# assets
+# LiveCat Assets
